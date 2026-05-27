@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsserify",
+        "uuid": 9448614,
+        "checksum": "iqmrd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
